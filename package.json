@@ -1,6 +1,6 @@
 {
   "name": "liferay-hotfix-doc",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "A nodejs wrapper for a service that reads a liferay hotfix documentation (contained in the file fixpack_documentation.xml) and converts it to json format without the need to download the entire hotfix.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-	"url": "git@github.com:cleydyr/liferay-hotfix-doc.git"
+    "url": "git@github.com:cleydyr/liferay-hotfix-doc.git"
   },
   "keywords": [
     "liferay",
