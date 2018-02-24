@@ -9,6 +9,8 @@ A NodeJS wrapper for a service that reads a liferay hotfix documentation (contai
 First, you have to instantiate the HotfixDoc object.
 
 ```
+const HotfixDoc = require('liferay-hotfix-doc');
+
 const hd = new HotfixDoc({
   user: 'my liferay.com user',
   password: 'my liferay.com password',
